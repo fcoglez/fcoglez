@@ -21,5 +21,4 @@ You can find me 🌍:
 
 
 
-
-[![@fcoglez's Holopin board](https://holopin.me/fcoglez)](https://holopin.io/@fcoglez)
+<!---[![@fcoglez's Holopin board](https://holopin.me/fcoglez)](https://holopin.io/@fcoglez)-->
