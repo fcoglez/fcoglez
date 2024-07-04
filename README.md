@@ -5,6 +5,9 @@
    pronouns: "he" | "him",
    code: [Javascript, Typescript, HTML, CSS, PHP, Java],
    technologies: {
+      general: {
+        docker
+      },
       frontEnd: {
          js: ["Angular"],
          css: ["Bootstrap", "Tailwind"]
